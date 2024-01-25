@@ -4,4 +4,4 @@ Character 1 is called: PLAYER1.
 
 Character 2 is called: PLAYER2.
 
-Write their life story.
+Write their life story. Add in an encounter.

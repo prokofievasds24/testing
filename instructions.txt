@@ -3,3 +3,6 @@ You will create a game using two characters.
 Character 1 is called: PLAYER1.
 
 Character 2 is called: PLAYER2.
+
+These are the new instructions:
+Create two characters. Write their life story.

@@ -1,5 +1,3 @@
-this is a read me file
-MOAR
-MOAR
+This is a README file.
 
-and I'm adding another line.
+In this directory we have an instructions file.

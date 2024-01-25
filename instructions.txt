@@ -1,5 +1,5 @@
-more from person B
+You will create a game using two characters.
 
-more from person Anna
+Character 1 is called: PLAYER1.
 
-these are new instructions
+Character 2 is called: PLAYER2.
